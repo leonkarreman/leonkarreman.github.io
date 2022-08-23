@@ -1,3 +1,7 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Leon Karreman
 description: Bookmark this to keep an eye on my project updates!
+tagline:      A responsive theme for your project on GitHub Pages
+baseurl:      ""
+paginate:     1
+locale:       "en"
